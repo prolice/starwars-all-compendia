@@ -19,6 +19,7 @@ Et pour tous les adversaires (non traduit) mais importé 😉
 * https://foundry.prolice.net/compendium2module/cvb-adversaries/module.json
 
 Il contient toute les versions traduites des objets/journaux et adversaires de Star Wars FFG oggDude et quand un élément n'est pas traduit sa version anglaise est toujours présente.
+
 Nous avons donc:
  * les Adversaires
  * les descriptions des comptétences (journaux)
