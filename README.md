@@ -14,6 +14,7 @@ Ce module remplace tous les modules ci-dessous:
 * https://foundry.prolice.net/compendium2module/cvb-specialisations/module.json
 * https://foundry.prolice.net/compendium2module/cvb-carrieres/module.json
 * https://foundry.prolice.net/compendium2module/cvb-especes/module.json
+
 Et pour tous les adversaires (non traduit) mais importé 😉
 * https://foundry.prolice.net/compendium2module/cvb-adversaries/module.json
 
