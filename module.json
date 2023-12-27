@@ -1,0 +1,55 @@
+{
+  "id": "star-wars-all-compendia",
+  "title": "Star Wars All Compendia",
+  "version": "11.315.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11",
+    "maximum": "12"
+  },
+  "authors": [
+    {
+      "name": "Prolice",
+      "discord": ".porlice",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "objets",
+      "label": "Objets",
+      "path": "packs/objets",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "journaux",
+      "label": "Journaux",
+      "path": "packs/journaux",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "acteurs",
+      "label": "Acteurs",
+      "path": "packs/acteurs",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    }
+  ]
+}
