@@ -1,6 +1,8 @@
 # Module de Remplacement pour Star Wars FFG OggDude
 
+
 Ce module remplace plusieurs modules individuels pour Star Wars FFG OggDude dans Foundry VTT, regroupant toutes les traductions nécessaires et ajoutant de nouvelles fonctionnalités. Il comprend les éléments suivants :
+* https://foundry.prolice.net/compendium2module/cvb-adversaries/module.json
 
 ## Modules remplacés
 
