@@ -1,8 +1,6 @@
 # Module de Remplacement pour Star Wars FFG OggDude
 
-
 Ce module remplace plusieurs modules individuels pour Star Wars FFG OggDude dans Foundry VTT, regroupant toutes les traductions nécessaires et ajoutant de nouvelles fonctionnalités. Il comprend les éléments suivants :
-* https://foundry.prolice.net/compendium2module/cvb-adversaries/module.json
 
 ## Modules remplacés
 
@@ -49,5 +47,14 @@ Le module contient toutes les versions traduites des objets, journaux et adversa
 15. Spécialisations
 16. Talents
 
-Amusez-vous et que la Force soit avec vous !
+## Installation
 
+Pour installer ce module, suivez ces étapes :
+
+1. Rendez-vous dans la partie "Admin" de votre FoundryVTT.
+2. Accédez à l'onglet "Modules".
+3. Cliquez sur "Installer un module".
+4. Copiez/collez l'URL suivant : [https://raw.githubusercontent.com/prolice/starwars-all-compendia/main/module.json](https://raw.githubusercontent.com/prolice/starwars-all-compendia/main/module.json).
+5. Activez le module dans votre monde.
+
+Voilà, tous les compendia sont maintenant accessibles dans votre monde ! Que la Force soit avec vous !
