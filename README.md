@@ -15,7 +15,7 @@ Ce module remplace tous les modules ci-dessous:
 * https://foundry.prolice.net/compendium2module/cvb-carrieres/module.json
 * https://foundry.prolice.net/compendium2module/cvb-especes/module.json
 
-Et pour tous les adversaires (non traduit) mais importé 😉
+Et pour tous les adversaires (non traduit) mais importés 😉
 * https://foundry.prolice.net/compendium2module/cvb-adversaries/module.json
 
 Il contient toute les versions traduites des objets/journaux et adversaires de Star Wars FFG oggDude et quand un élément n'est pas traduit sa version anglaise est toujours présente.
