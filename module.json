@@ -1,11 +1,11 @@
 {
   "id": "star-wars-all-compendia",
   "title": "Star Wars All Compendia",
-  "version": "11.315.5",
+  "version": "12.330.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "11",
-    "maximum": "12"
+    "verified": "12",
+    "maximum": "13"
   },
   "authors": [
     {
@@ -53,5 +53,5 @@
     }
   ],
     "manifest": "https://raw.githubusercontent.com/prolice/starwars-all-compendia/main/module.json",
-    "download": "https://github.com/prolice/starwars-all-compendia/releases/download/v11.315.5/module.zip"
+    "download": "https://github.com/prolice/starwars-all-compendia/releases/download/v12.330.0/module.zip"
 }
